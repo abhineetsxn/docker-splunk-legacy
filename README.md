@@ -1,4 +1,4 @@
-### Welcome to the Splunk Docker GitHub repository
+#### Welcome to the Splunk Docker GitHub repository
 
 This is the official repository for the Splunk Enterprise and Splunk universal forwarder Docker effort. It contains Dockerfiles that you can use to build [Splunk](https://splunk.com) Docker images.
 
